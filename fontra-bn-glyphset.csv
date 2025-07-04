@@ -292,7 +292,7 @@ na_halant_tta-beng,,cjct
 na_halant_ttha_halant_ra-beng,,cjct
 na_halant_ttha-beng,,cjct
 na_halant_ta-beng,,cjct
-na_halant_ta_ba-beng,,cjct
+na_halant_ta_halant_ba-beng,,cjct
 pa_halant_ba-beng,,cjct
 pa_halant_la-beng,,cjct
 pa_halant_ma-beng,,cjct
@@ -324,7 +324,7 @@ ma_halant_pa-beng,,cjct
 ma_halant_pha-beng,,cjct
 ma_halant_ta_halant_ra-beng,,cjct
 ma_halant_ta-beng,,cjct
-ra_zwnj_halant_ya-beng,,cjct
+ra_zerowidthjoiner_halant_ya-beng,,cjct
 la_halant_ba-beng,,cjct
 la_halant_bha-beng,,cjct
 la_halant_dda-beng,,cjct
@@ -352,7 +352,7 @@ ssa_halant_ma-beng,,cjct
 ssa_halant_nna-beng,,cjct
 ssa_halant_pa_ra-beng,,cjct
 ssa_halant_pha-beng,,cjct
-ssa_halant_tta_ra-beng,,cjct
+ssa_halant_tta_halant_ra-beng,,cjct
 ssa_halant_tta-beng,,cjct
 ssa_halant_ttha-beng,,cjct
 ssa_halant._pa-beng,,cjct
@@ -366,11 +366,11 @@ sa_halant_na-beng,,cjct
 sa_halant_pa_halant_ra-beng,,vatu
 sa_halant_pa-beng,,cjct
 sa_halant_pha-beng,,cjct
-sa_halant_ta_ra-beng,,cjct
+sa_halant_ta_halant_ra-beng,,cjct
 sa_halant_ta-beng,,cjct
 sa_halant_tha-beng,,cjct
 sa_halant_tta-beng,,cjct
-sa_halant_tta_ra-beng,,cjct
+sa_halant_tta_halant_ra-beng,,cjct
 rra_halant_ga-beng,,cjct
 ha_halant_ba-beng,,cjct
 ha_halant_la-beng,,cjct
