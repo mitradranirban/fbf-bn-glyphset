@@ -1,4 +1,4 @@
-Name,HexaDecimal Code,Comment lookup
+oName,HexaDecimal Code,Comment lookup
 nonmarkingreturn,0x000D,
 space,0x0020,
 exclam,0x0021,
@@ -205,7 +205,7 @@ ka_halant_ma-beng,,cjct
 ka_halant_na-beng,,cjct
 ka_halant_sa-beng,,cjct
 ka_halant_ta-beng,,cjct
-ka_halant_tta_ra-beng,,cjct
+ka_halant_tta_halant_ra-beng,,cjct
 ka_halant_tta-beng,,cjct
 ka_halant_ssa_halant_ma-beng,,cjct
 ka_halant_ssa_halant_nna-beng,,cjct
@@ -224,7 +224,7 @@ nga_halant_ka-beng,,cjct
 nga_halant_kha-beng,,cjct
 nga_halant_ma-beng,,cjct
 ca_halant_ca-beng,,cjct
-ca_halant_cha_ba-beng,,cjct
+ca_halant_cha_halant_ba-beng,,cjct
 ca_halant_cha_halant_ra-beng,,cjct
 ca_halant_cha-beng,,cjct
 ca_halant_nya-beng,,cjct
@@ -250,7 +250,7 @@ nna_halant_ddha-beng,,cjct
 nna_halant_ma-beng,,cjct
 nna_halant_nna-beng,,cjct
 nna_halant_tta-beng,,cjct
-ta_halant _ta_halant_ra-beng,,cjct
+ta_halant_ta_halant_ra-beng,,cjct
 ta_halant_ba-beng,,cjct
 ta_halant_ma-beng,,cjct
 ta_halant_na-beng,,cjct
@@ -319,7 +319,7 @@ ma_halant_ha-beng,,cjct
 ma_halant_la-beng,,cjct
 ma_halant_ma-beng,,cjct
 ma_halant_na-beng,,cjct
-ma_halant_pa_ra-beng,,cjct
+ma_halant_pa_halan_ra-beng,,cjct
 ma_halant_pa-beng,,cjct
 ma_halant_pha-beng,,cjct
 ma_halant_ta_halant_ra-beng,,cjct
@@ -488,7 +488,6 @@ ttha_candraBindu-beng,,abvs
 iiMatra_candraBindu-beng,,abvs
 iiMatra_reph-beng,,abvs
 iMatra_candraBindu-beng,,abvs
-iiMatra_reph-beng,,abvs
 auLength_candraBindu-beng,,abvs
 auLength_reph-beng,,abvs
 # Alternative Fractions ,,
@@ -502,7 +501,7 @@ three_slash_four-beng.afrc,,afrc
 ka_halant_ta-beng.salt,,
 ha_halant_ma-beng.salt,,
 nga_halant_ga-beng.salt,,
-ka_ halant_ra-beng.salt,,
+ka_halant_ra-beng.salt,,
 nga_halant_ka-beng.salt,,
 ta_halant_ra-beng.salt,,
 sa_halant_ka_halant_ra-beng.salt,,
