@@ -1,4 +1,4 @@
-oName,HexaDecimal Code,Comment lookup
+Name,HexaDecimal Code,Comment lookup
 nonmarkingreturn,0x000D,
 space,0x0020,
 exclam,0x0021,
@@ -102,8 +102,8 @@ iMatra-beng,0x09bf,
 iiMatra-beng,0x09c0,
 uMatra-beng,0x09c1,
 uuMatra-beng,0x09c2,
-riMatra-beng,0x09c3,
-rriMatra-beng,0x09c4,
+rVocalicMatra-beng,0x09c3,
+rrVocalicMatra-beng,0x09c4,
 eMatra-beng,0x09c7,
 aiMatra-beng,0x09c8,
 oMatra-beng,0x09cb,
@@ -254,16 +254,16 @@ ta_halant_ta_halant_ra-beng,,cjct
 ta_halant_ba-beng,,cjct
 ta_halant_ma-beng,,cjct
 ta_halant_na-beng,,cjct
-ta_halant_ta_ba-beng,,cjct
+ta_halant_ta_halant_ba-beng,,cjct
 ta_halant_ta-beng,,cjct
 ta_halant_tha-beng,,cjct
 tha_halant_ba-beng,,cjct
 da_halant_ba-beng,,cjct
 da_halant_bha_halant_ra-beng,,cjct
 da_halant_bha-beng,,cjct
-da_halant_da_ba-beng,,cjct
+da_halant_da_halant_ba-beng,,cjct
 da_halant_da-beng,,cjct
-da_halant_dha_ba-beng,,cjct
+da_halant_dha_halant_ba-beng,,cjct
 da_halant_dha-beng,,cjct
 da_halant_ga-beng,,cjct
 da_halant_gha-beng,,cjct
@@ -274,8 +274,8 @@ dha_halant_ma-beng,,cjct
 dha_halant_na-beng,,cjct
 na_halant_ba-beng,,cjct
 na_halant_ca-beng,,cjct
-na_halant_da_ba-beng,,cjct
-na_halant_da_ra-beng,,cjct
+na_halant_da_halant_ba-beng,,cjct
+na_halant_da_halant_ra-beng,,cjct
 na_halant_da-beng,,cjct
 na_halant_dda_halant_ra-beng,,cjct
 na_halant_dda-beng,,cjct
@@ -291,7 +291,7 @@ na_halant_tta_halant_ra-beng,,cjct
 na_halant_tta-beng,,cjct
 na_halant_ttha_halant_ra-beng,,cjct
 na_halant_ttha-beng,,cjct
-na_halant._ta-beng,,cjct
+na_halant_ta-beng,,cjct
 na_halant_ta_ba-beng,,cjct
 pa_halant_ba-beng,,cjct
 pa_halant_la-beng,,cjct
@@ -357,20 +357,20 @@ ssa_halant_tta-beng,,cjct
 ssa_halant_ttha-beng,,cjct
 ssa_halant._pa-beng,,cjct
 sa_halant_ba-beng,,cjct
-sa_halant_ka_ra-beng,,cjct
+sa_halant_ka_halant_ra-beng,,cjct
 sa_halant_ka-beng,,cjct
 sa_halant_kha-beng,,cjct
 sa_halant_la-beng,,cjct
 sa_halant_ma-beng,,cjct
 sa_halant_na-beng,,cjct
-sa_halant_pa_ra-beng,,vatu
+sa_halant_pa_halant_ra-beng,,vatu
 sa_halant_pa-beng,,cjct
 sa_halant_pha-beng,,cjct
 sa_halant_ta_ra-beng,,cjct
 sa_halant_ta-beng,,cjct
 sa_halant_tha-beng,,cjct
 sa_halant_tta-beng,,cjct
-sa_halant.tta_ra-beng,,cjct
+sa_halant_tta_ra-beng,,cjct
 rra_halant_ga-beng,,cjct
 ha_halant_ba-beng,,cjct
 ha_halant_la-beng,,cjct
@@ -451,8 +451,8 @@ ja_halant_nya_halant-beng,,haln
 ka_halant_ssa_halant-beng,,haln
 # Below Base Substitutions ,,
 sa_halant_ta_uMatra-beng,,blws
-as_ra_uMatra-beng,,blws
-as_ra_uuMatra-beng,,blws
+ramiddlediagonal_uMatra-beng,,blws
+ramiddlediagonal_uuMatra-beng,,blws
 ga_halant_ra_uMatra-beng,,blws
 ga_halant_ra_uuMatra-beng,,blws
 dha_halant_ra_uMatra-beng,,blws
@@ -477,7 +477,7 @@ bha_halant_ra_uuMatra-beng,,blws
 sha_halant_ra_uMatra-beng,,blws
 sha_halant_ra_uuMatra-beng,,blws
 ha_uMatra-beng,,blws
-ha_riMatra-beng,,blws
+ha_rVocalicMatra-beng,,blws
 # Above base Substitutions ,,
 i_candraBindu-beng,,abvs
 ii_candraBindu-beng,,abvs
@@ -498,15 +498,12 @@ one_slash_eight-beng.afrc,,afrc
 two_slash_three-beng.afrc,,afrc
 three_slash_four-beng.afrc,,afrc
 # Stylistic Alternates (Modern Forms),,
-ka_halant_ta-beng.salt,,
-ha_halant_ma-beng.salt,,
-nga_halant_ga-beng.salt,,
-ka_halant_ra-beng.salt,,
-nga_halant_ka-beng.salt,,
-ta_halant_ra-beng.salt,,
-sa_halant_ka_halant_ra-beng.salt,,
-sa_halant_ta_halant_ra-beng.salt,,
-iMatra-beng.salt,,
-iiMatra-beng.salt,,
-candraBindu-beng.salt,,
-nya_halant_ca-beng.salt,,
+ka_halant_ta-beng.salt,,salt
+ha_halant_ma-beng.salt,,salt
+nga_halant_ga-beng.salt,,salt
+ka_halant_ra-beng.salt,,salt
+nga_halant_ka-beng.salt,,salt
+ta_halant_ra-beng.salt,,salt
+sa_halant_ka_halant_ra-beng.salt,,salt
+sa_halant_ta_halant_ra-beng.salt,,salt
+nya_halant_ca-beng.salt,,salt
